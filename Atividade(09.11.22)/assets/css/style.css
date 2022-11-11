@@ -1,0 +1,40 @@
+.center{
+    text-align: center;
+}
+
+.fundo{
+    background-color: wheat;
+}
+
+.fotoIng{
+    margin-top: 30px;
+}
+
+#menu li{
+    display: inline;
+    padding: 16px;
+    margin: 90px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    font-size: 20px;
+    color: rgb(240, 14, 14);   
+}
+
+.homedis{
+    padding-right: 90px;
+}
+
+.meioTela{
+    padding: 150px;
+}
+
+.meioTela2{
+    padding: 75px;
+}
