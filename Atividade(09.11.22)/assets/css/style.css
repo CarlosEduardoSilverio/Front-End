@@ -12,8 +12,8 @@
 
 #menu li{
     display: inline;
-    padding: 16px;
-    margin: 90px;
+    padding: 2px;
+    margin: 70px;
 }
 
 #menu li a{
@@ -32,9 +32,36 @@
 }
 
 .meioTela{
-    padding: 150px;
+    padding: 30px;
 }
 
 .meioTela2{
     padding: 75px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.contatoMeio{
+    margin-bottom: 80px;
+}
+
+.emailesquerda{
+    padding-left: 4%;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.resumoMeio{
+    padding-top: 2.3%;
+}
+
+.fortnite{
+    height: 400px;
 }
