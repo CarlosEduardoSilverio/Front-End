@@ -5,3 +5,23 @@
 .containerVideo{
     align-items: left;
 }
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.br-50{
+    border-radius: 12%;
+}
+
+.wh-300{
+    width: 300px;
+    height: 300px;
+}
+
+.p-20{
+    padding: 40px;
+}
